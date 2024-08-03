@@ -1,4 +1,4 @@
-### Bienvenue ```${tonNomEstIci.promis}```, je suis DOUTI Lamoussa
+### Bienvenue, je suis DOUTI Lamoussa
 
 ### Je vis à Lomé au TOGO et je suis développeur web.
 
